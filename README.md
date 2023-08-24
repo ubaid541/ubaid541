@@ -9,19 +9,19 @@
 - 💻 A self-taught developer
 - 🎓 Completed BCSE from Foundation Universtiy Islamabad
 - 🌱 Learning DSA
-- 👨‍💻 Love the Harvard's CS50
+- 🗻 Love to visit hilly areas
+- 🏍  Love long drive, without any specific direction
 - 👯 Looking to collaborate on anything interesting
-- 🎬 Silicon Valley (2014)
 
 - 🎉 Fun fact: 😶
 <br/>
 
 ## 👀 At the moment
-Crafting a real estate CRM web app with statistics of facebook campaigns data <img src="https://www.freepngimg.com/thumb/facebook/65541-logo-facebook-icon-free-hq-image.png" width="30" />, real-time updates 🔗, google calendar integrations 🚀, Google Maps 🗺️, and payment magic 💰.
+🏢 Forging a real estate CRM web app with Facebook campaign insights 📊, instant updates 🔗, Google Calendar wizardry 📅, Google Maps exploration 🗺️, listings 📃 and more.
 
 </br>
 
-## ⚡ My Skill Set  
+## ⚡ My ToolBox
 <table width="100%"><tr><td valign="top" width="40%">
 
 
@@ -74,13 +74,13 @@ Crafting a real estate CRM web app with statistics of facebook campaigns data <i
 
 ## 🤝 Connect with me  
 <div align="center">
-<a href="https://github.com/muhammad-junaid1" target="_blank">
+<a href="https://github.com/ubaid541" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/muhammad-junaid1" target="_blank">
+<a href="https://linkedin.com/in/ubaid-ur-rehman-se/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="mailto:mjunaid.swe@gmail.com" target="_blank">
+  <a href="mailto:ubaidrehmanse@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=google&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 </div> 
