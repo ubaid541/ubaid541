@@ -8,7 +8,7 @@
 - 📍  From Rawalpindi, Pakistan
 - 💻 A self-taught developer
 - 🎓 Completed BCSE from Foundation Universtiy Islamabad
-- 🌱 Learning Typescript & Graphql
+- 🌱 Learning AI automations
 - 🗻 Love to visit hilly areas
 - 🏍  Love long drive, without any specific direction
 - 👯 Looking to collaborate on anything interesting
